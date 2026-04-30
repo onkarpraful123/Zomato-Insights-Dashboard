@@ -26,10 +26,10 @@ This project is an interactive Power BI dashboard designed to analyze Zomato res
   ## 📸 Dashboard Preview
 
 ### Cover Page
-![Cover](cover.png)
+![Cover](Cover page.png)
 
 ### Live Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📬 Feedback
 Feel free to share your feedback or suggestions!
