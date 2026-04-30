@@ -21,7 +21,15 @@ This project is an interactive Power BI dashboard designed to analyze Zomato res
 ## 💡 Insights Gained
 - Identified top-performing restaurants  
 - Analyzed customer preferences  
-- Observed trends in orders and ratings  
+- Observed trends in orders and ratings
+
+  ## 📸 Dashboard Preview
+
+### Cover Page
+![Cover](cover.png)
+
+### Live Dashboard
+![Dashboard](dashboard.png)
 
 ## 📬 Feedback
 Feel free to share your feedback or suggestions!
